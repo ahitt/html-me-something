@@ -70,3 +70,7 @@ a:hover, a:focus, a:active {
 p.intro {
     font-size: 25px;
 }
+
+#names {
+    text-decoration: underline;
+}
